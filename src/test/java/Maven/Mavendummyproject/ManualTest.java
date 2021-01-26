@@ -16,7 +16,11 @@ System.out.println("Modified from BRANCH X");
 System.out.println("Modified from BRANCH X");
 	}
 {
-System.out.println("Writing update from MASTER");
-System.out.println("Writing update from MASTER");
+System.out.println("Writing update from GIT MASTER");
+System.out.println("Writing update from GIT MASTER");
+	}
+{
+System.out.println("adding STEP FROM BRANCH X");
+System.out.println("adding STEP FROM BRANCH X");
 	}
 }
