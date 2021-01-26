@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MSuite">
+  <test name="MTest">
+    <classes>
+      <class name="Maven.Mavendummyproject.SeleniumTest"/>
+      <class name="Maven.Mavendummyproject.ManualTest"/>
+    </classes>
+  </test> <!-- MTest -->
+</suite> <!-- MSuite -->
