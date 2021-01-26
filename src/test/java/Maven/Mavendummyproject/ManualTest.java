@@ -22,5 +22,8 @@ System.out.println("Writing update from GIT MASTER");
 {
 System.out.println("adding STEP FROM BRANCH X");
 System.out.println("adding STEP FROM BRANCH X");
+	}{
+System.out.println("ADD from USERX ORIGINAL");
+System.out.println("ADD from USERX ORIGINAL");
 	}
 }
