@@ -15,5 +15,8 @@ System.out.println("Update from Mater 1");
 System.out.println("Modified from BRANCH X");
 System.out.println("Modified from BRANCH X");
 	}
-
+{
+System.out.println("Writing update from MASTER");
+System.out.println("Writing update from MASTER");
+	}
 }
