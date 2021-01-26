@@ -46,4 +46,16 @@ System.out.println("FINAL MASTER CHANGE ");
 			System.out.println(" ADDING FOR DEVELOPment Branch");
 
 				}
+		{
+			System.out.println(" GOING TO MERGE BRANCH");
+
+				}
+		{
+			System.out.println(" NOT PUSSED FROM DEV TO MAST");
+
+				}
+		{
+			System.out.println(" update: NOT PUSHED FROM DEV TO MASTER");
+
+				}
 }
